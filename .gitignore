@@ -3,3 +3,4 @@ dl/
 datasets
 pretrained-weights
 runs
+data-models/wandb
