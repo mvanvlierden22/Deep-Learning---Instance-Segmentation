@@ -1,7 +1,6 @@
 football-dataset/
 dl/
 datasets
-pretrained-weights
 runs
 data-models/wandb
 football-dataset-yolo/
