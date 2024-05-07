@@ -11,6 +11,7 @@
 - Dataset is already provided in converted format
 - Pre-trained models are present in the pretrained-weights folder
 - Our final run is present in runs/segment
+    - The best model of this run is included in weights/best.pt such that you can inference on this model without training it
 
 Dataset was downloaded from https://www.kaggle.com/datasets/ihelon/football-player-segmentation.
 
