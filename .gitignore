@@ -1,6 +1,4 @@
-football-dataset/
 dl/
-datasets
 runs
 data-models/wandb
 football-dataset-yolo/
