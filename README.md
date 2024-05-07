@@ -9,6 +9,8 @@
 - Run code blocks in yolo.ipynb in data-models folder
     - Add preferred hyperparameters to model.train method 
 - Dataset is already provided in converted format
+- Pre-trained models are present in the pretrained-weights folder
+- Our final run is present in runs/segment
 
 Dataset was downloaded from https://www.kaggle.com/datasets/ihelon/football-player-segmentation.
 
